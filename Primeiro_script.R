@@ -4,3 +4,6 @@
 # Versão 4
 library(tidyverse)
 # mudança
+filter()
+mutate()
+select()
